@@ -1,4 +1,7 @@
 <div align="center">  
+  <img src="" alt="Capa" width="100%">
+  
+
   
   # Olá! Eu sou Bruno Leonardo Silveira 👋
   
